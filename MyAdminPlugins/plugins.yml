@@ -1,0 +1,6 @@
+name: MyAdminPlugin
+version: 1.0
+main: com.example.MyAdminPlugin
+commands:
+  ad:
+    description: Admin panel command
